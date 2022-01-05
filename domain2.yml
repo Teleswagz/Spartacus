@@ -1,0 +1,1254 @@
+ #STEP ONE
+utter_step1:
+  - buttons:
+    - payload: /step1_1
+        title: '2.1'
+    - payload: /step1_2
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.3'
+    - payload: /step1_4
+      title: '2.4'
+    - payload: /step1_5
+      title: '2.5'
+    text: Welcome to Step 1.
+
+
+
+utter_step1_3:
+  - buttons:
+    - payload: /step1_1
+        title: '2.1'
+    - payload: /step1_2
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.3'
+    - payload: /step1_4
+      title: '2.4'
+    - payload: /step1_5
+      title: '2.5'
+    text: Welcome to Step 1.
+
+utter_step1_4:
+  - buttons:
+    - payload: /step1_1
+        title: '2.1'
+    - payload: /step1_2
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.3'
+    - payload: /step1_4
+      title: '2.4'
+    - payload: /step1_5
+      title: '2.5'
+    text: Welcome to Step 1.
+
+utter_step1_5:
+  - buttons:
+    - payload: /step1_1
+        title: '2.1'
+    - payload: /step1_2
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.3'
+    - payload: /step1_4
+      title: '2.4'
+    - payload: /step1_5
+      title: '2.5'
+    text: Welcome to Step 1.
+
+utter_step1_3:
+  - buttons:
+    - payload: /step1_1
+        title: '2.1'
+    - payload: /step1_2
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.3'
+    - payload: /step1_4
+      title: '2.4'
+    - payload: /step1_5
+      title: '2.5'
+    text: Welcome to Step 1.
+
+utter_step1_3:
+  - buttons:
+    - payload: /step1_1
+        title: '2.1'
+    - payload: /step1_2
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.3'
+    - payload: /step1_4
+      title: '2.4'
+    - payload: /step1_5
+      title: '2.5'
+    text: Welcome to Step 1.
+
+utter_step1_3:
+  - buttons:
+    - payload: /step1_1
+        title: '2.1'
+    - payload: /step1_2
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.3'
+    - payload: /step1_4
+      title: '2.4'
+    - payload: /step1_5
+      title: '2.5'
+    text: Welcome to Step 1.
+
+utter_step1_3:
+  - buttons:
+    - payload: /step1_1
+        title: '2.1'
+    - payload: /step1_2
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.3'
+    - payload: /step1_4
+      title: '2.4'
+    - payload: /step1_5
+      title: '2.5'
+    text: Welcome to Step 1.
+
+utter_step1_3:
+  - buttons:
+    - payload: /step1_1
+        title: '2.1'
+    - payload: /step1_2
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.3'
+    - payload: /step1_4
+      title: '2.4'
+    - payload: /step1_5
+      title: '2.5'
+    text: Welcome to Step 1.
+
+utter_step1_3:
+  - buttons:
+    - payload: /step1_1
+        title: '2.1'
+    - payload: /step1_2
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.2'
+    - payload: /step1_3
+      title: '2.3'
+    - payload: /step1_4
+      title: '2.4'
+    - payload: /step1_5
+      title: '2.5'
+    text: Welcome to Step 1.
+
+
+
+
+# STEP TWO
+
+utter_step2:
+  - buttons:
+    - payload: /step2_1
+        title: '2.1'
+    - payload: /step2_2
+      title: '2.2'
+    - payload: /step2_3
+      title: '2.2'
+    - payload: /step2_3
+      title: '2.3'
+    - payload: /step2_4
+      title: '2.4'
+    - payload: /step2_5
+      title: '2.5'
+    text: Welcome to Step 2.
+ 
+utter_step2_2:
+  - buttons:
+    - payload: /step2_2_1
+        title: '2.1'
+    - payload: /step2_2_2
+      title: '2.2'
+    - payload: /step2_2_3
+      title: '2.3'
+    - payload: /step2_2_4
+      title: '2.4'
+    - payload: /step2_2_5
+      title: '2.5'
+    text: Welcome to Step 2.
+
+    utter_step2_3:
+  - buttons:
+    - payload: /step2_3_1
+        title: '2.1'
+    - payload: /step2_3_2
+      title: '2.2'
+    - payload: /step2_3_3
+      title: '2.2'
+    - payload: /step2_3_4
+      title: '2.3'
+    - payload: /step2_3_5
+    text: Welcome to Step 2.
+
+    utter_step2_4:
+  - buttons:
+    - payload: /step2_4_1
+        title: '2.1'
+    - payload: /step2_4_2
+      title: '2.2'
+    - payload: /step2_4_3
+      title: '2.2'
+    - payload: /step2_4_4
+      title: '2.3'
+    - payload: /step2_4_5
+      title: '2.4'
+    text: Welcome to Step 2.
+  
+  utter_step2_5:
+  - buttons:
+    - payload: /step2_5_1
+        title: '2.1'
+    - payload: /step2_5_2
+      title: '2.2'
+    - payload: /step2_5_3
+      title: '2.3'
+    - payload: /step2_5_4
+      title: '2.4'
+    - payload: /step2_5_5
+      title: '2.5'
+    text: Welcome to Step 2.
+
+    utter_step2_6:
+  - buttons:
+    - payload: /step2_6_1
+        title: '2.1'
+    - payload: /step2_6_2
+      title: '2.2'
+    - payload: /step2_6_3
+      title: '2.2'
+    - payload: /step2_6_4
+      title: '2.3'
+    - payload: /step2_6_5
+      title: '2.4'
+    text: Welcome to Step 2.
+
+    utter_step2_7:
+  - buttons:
+    - payload: /step2_7_1
+        title: '2.1'
+    - payload: /step2_7_2
+      title: '2.2'
+    - payload: /step2_7_3
+      title: '2.2'
+    - payload: /step2_7_4
+      title: '2.3'
+    - payload: /step2_7_4
+      title: '2.4'
+    - payload: /step2_7_5
+      title: '2.5'
+
+    text: Welcome to Step 2.
+
+# STEP THREE
+  utter_step3:
+  - buttons:
+    - payload: /step3_2
+      title: '3.2'
+    - payload: /step3_3
+      title: '3.2'
+    - payload: /step3_3
+      title: '3.3'
+    - payload: /step3_4
+      title: '3.4'
+    - payload: /step3_5
+      title: '3.5'
+    - payload: /step3_6
+      title: '3.6'
+    - payload: /step3_7
+      title: '3.7'
+    text: Welcome to Step 3.
+
+  utter_step3_2:
+  - buttons:
+    - payload: /step3_2_1
+      title: '3.2.1'
+    - payload: /step3_2_2
+      title: '3.2.2'
+    - payload: /step3_2_3
+      title: '3.2.3'
+    - payload: /step3_2_4
+      title: '3.2.4'
+    - payload: /step3_2_5
+      title: '3.2.5'
+    text: Welcome to Step 3.2.
+    
+  utter_step3_3:
+  - buttons:
+    - payload: /step3_3_1
+      title: '3.3.1'
+    - payload: /step3_3_2
+      title: '3.3.2'
+    - payload: /step3_3_3
+      title: '3.3.3'
+    - payload: /step3_3_4
+      title: '3.3.4'
+    - payload: /step3_3_5
+      title: '3.3.5'
+    text: Welcome to Step 3.3.
+  
+  utter_step3_4:
+  - buttons:
+    - payload: /step3_4_1
+      title: '3.4.1'
+    - payload: /step3_4_2
+      title: '3.4.2'
+    - payload: /step3_4_3
+      title: '3.4.3'
+    - payload: /step3_4_4
+      title: '3.4.4'
+    - payload: /step3_4_5
+      title: '3.4.5'
+    text: Welcome to Step 3.4.
+  
+  utter_step3_5:
+  - buttons:
+    - payload: /step3_5_1
+      title: '3.5.1'
+    - payload: /step3_5_2
+      title: '3.5.2'
+    - payload: /step3_5_3
+      title: '3.5.3'
+    - payload: /step3_5_4
+      title: '3.5.4'
+    - payload: /step3_5_5
+      title: '3.5.5'
+    text: Welcome to Step 3.5.
+  
+  utter_step3_6:
+  - buttons:
+    - payload: /step3_6_1
+      title: '3.6.1'
+    - payload: /step3_6_2
+      title: '3.6.2'
+    - payload: /step3_6_3
+      title: '3.6.3'
+    - payload: /step3_6_4
+      title: '3.6.4'
+    - payload: /step3_6_5
+      title: '3.6.5'
+    text: Welcome to Step 3.6.
+  
+  utter_step3_7:
+  - buttons:
+    - payload: /step3_7_1
+      title: '3.7.1'
+    - payload: /step3_7_2
+      title: '3.7.2'
+    - payload: /step3_7_3
+      title: '3.7.3'
+    - payload: /step3_7_4
+      title: '3.7.4'
+    - payload: /step3_7_5
+      title: '3.7.5'
+
+    text: Welcome to Step 3.7.
+  
+  
+  utter_step3_2_1:
+  - text: |+
+      Applications of Drone Videography or UAV
+
+      Aerial video is an emerging form of data acquisition for scene understanding and object tracking. The video is captured by low flying aerial platforms that integrate Global Positioning Systems (GPS) and automated image processing to improve the accuracy and cost-effectiveness of data collection and reduction.
+
+      Applications of Drone Videography are Surveying and mapping, Security, Asset Inspection of Flora and Fauna, Video 
+
+      Unmanned aerial photogrammetric survey is the use of unmanned aerial vehicles (UAVs) to take photos for use in photogrammetry, the science of making measurements from photographs. Instruments manufactured for UAVs could be mounted on unmanned flying platforms of various sizes and types, such as octocopters.
+
+      UAV are suitable for the full geodetic survey of a study site by creating a point cloud of measurements of nearly homogenous quality and accuracy. These detailed point clouds (of various types of data) could be used in line with orthophotos etc. to obtain a complex data system representing the study site.
+
+      UAV mapping could be usefule analysis includes UAV flight planning, image acquisition, and accuracy assessment of road design.
+
+  utter_step3_2_2:
+  - text: |+
+      Applications of Drones
+
+      Drones can be useful in film industry for variety of shots, including close-ups that track out to film the entire scene without a cut.
+
+      In Sports Events, Opening day ceremony: Carrying different country flags, lights, Helping with training and analysing performance, Crowd control purposes etc
+
+      Drones in Institutional and educational uses, for e.g architecture students are using drones to conduct façade inspections on buildings and learn more about structures and construction techniques.
+
+      Drones we can use in Corporate Security, Construction, Telecommunication, Nuclear Power Plants,Agriculture etc
+    
+  utter_step3_2_3:
+  - text: |+
+      Drone Cinematography history, evoluiton and its Scope
+
+      World War I was one of the very first major military conflicts to combine the inventions of aircraft and photography from heights
+
+      FAA granting permission in 2014 for Hollywood studios to deploy UAVs on closed sets, the job opportunities in the film industry expanded greatly, since now both interior and outdoor scenes could be shot with drones.
+
+      The Unmanned Aircraft Systems, Data Specialist collects, stores, and disseminates data and intelligence collected by agency and contracted Unmanned Aircraft Systems (UAS) for wildland fire incidents.
+
+      UAS Degree can expose to large employers including Unmanned Aircraft Systems Operator,Commercial Aviation, Operations Management, Strategic Planning, Flight Training, Aviation etc.
+
+      Currently Pilot and sensor specialist training are considerable barriers towards operating a drone business in the asset inspection sector, where skilled workers demand high salaries for highly specialized industrial-grade jobs.
+
+  utter_step3_2_4:
+  - text: |+
+      Soon AD will launch an all-new flight simulator for drone pilot training, with real-world physics and FAA guideline integration, so that users may enhance skill retention and safety awareness, and explore a large range of mission scenarios.
+      
+      Flight simulator for basic drone flight training to perfecting skills, Successfully training pilots in risk identification, mitigation and response is undoubtedly the main goal of UAV flight simulation.
+
+      Flying from your home, AD’s soon to be launched simulator will provide users with vital mission-based training for a wide variety of commercial drone operations, across multiple industries, and all from the comfort of your own home.
+
+      Practicing maneuvers,an extensive range of flight exercises will be readily-available in the simulator, from basic square patterns, to advanced applications such as crop spraying and drone surveying.
+
+      High ranging flight hours, beginner pilots, who may feel apprehensive, can significantly benefit from practicing free roaming flights within the simulator, which is a great tool for reducing the hurdles that new pilots usually encounter.
+
+  utter_step3_2_5:
+  - text: |+
+      Brief Recap of 3.2 Module
+
+      Videography , from cinematography and journalism to sporting events, there are many applications for drone videography, considering how ubiquitous high quality aerial footage has become within mainstream media
+
+      Surveying and mapping, drones are the ideal tool for generating high resolution digital representations of areas for a wide range of applications, with enormous cost and time savings for customers.
+
+      Security,drones are deployed for security missions in military or law enforcement, corporate security and private security, offering a vast array of scenarios for UAV mission planning. 
+
+      Asset inspection, drones serving as mobile sensor platforms have revolutionized the asset inspection industry, where high volumes of data on asset health is key to increasing ROI while reducing costs and downtime.
+
+      Flora and fauna,with diverse applications, commercial opportunities are plentiful. Specialized sensors can provide tailored services for smart farming and ecological conservation.
+
+  utter_step3_3_1:
+  - text: |+
+      Unmanned Aerial Vehicle (UAV), popularly known as Drone, is an airborne system or an aircraft operated remotely by a human operator or autonomously by an onboard computer.UAVs have already revolutionized aerial videography, making it a possibility for variety sizes, and expanding the client base for drone operators.
+
+      Regarding sporting events, there are many possibilities that UAV deployment provides, however, drones are currently still not allowed to fly over stadiums and crowds. When this issue becomes regulated, the advantages of having footage from above in matches and games are plentiful, such as serving as an advanced tool for referees and capturing exciting moments from a whole new perspective.  
+      
+      Drone Cinematography, capturing action from above has been a part of cinematography for a long time, however, UAVs are now becoming a key tool in this endeavor. 
+
+      Here we will understand what advanced capabilities exist specifically for UAV videography missions and how AV capable drone organizations can deploy them for significant operational enhancements.
+
+  utter_step3_3_2:
+  - text: |+
+      Drones are more versatile, faster and less expensive than traditional aerial videography methods, with high-end drones, equipped with professional cameras, opening up a wide range of opportunities for you as a drone operator. 
+
+      Drones are simpler to operate than camera cranes or helicopters, being faster, more agile and easier to maneuver, making it much easier to capture dramatic shots from different angles.
+
+      Drone equipment results in fewer errors and less risk. By using AI technology, a camera-equipped drone can automatically track a moving person or object, without the shaking or quality loss associated with traditional aerial video capture while also mitigating risks to the subject of the video, equipment, film crew and pilot.
+
+      New technological solutions from providers like Aquiline Drones are making drone videography viable in industries that never used video imagery before. Let’s look at some of the most common applications for commercial drone videography like Cinematography,Social and Entertainment Events,Sports, News and live streams,Institutional and educational uses etc
+
+  utter_step3_3_3:
+  - text: |+
+      Requirements for Video PhotoGraphy
+
+      In order to calculate the total payload and identify mission critical aspects, the UAV service provider must assess specific camera needs, which lenses to use, what level of tracking technology the client’s expectations demand, as well as any automated and pilot skill requirements.
+
+      Few Aspects for VideoGraphy are like appropriate camera and lens determinations. Does the client require 4K or 8K quality? Will there be any slow-motion shots? What kind of lens focal lengths are needed?
+
+      A proficient PIC is key in obtaining high-quality cinema footage, since the operator must need to know exactly when and where to move and position the UAV, considering whether the objective is to trace the target, make its pass through the frame, or to fly in for a close up.
+
+      AI Tracking, When operating a cinematography UAV mission, AI powered tracking capabilities allow you to autonomously program drones to track and capture the subject, with a given speed, distance, angle and camera movement.
+
+      FVP Technology, First-person view or FPV flying is, by definition, a method used to control a drone from the pilot's perspective, offering a highly immersive flight experience and a user-friendly tool for the performance of flight commands.Ultra low latency is a key feature of any FPV system, so that only a minimal delay exists between the actual position of the drone and that which the operator is seeing in the goggles.
+
+
+  utter_step3_3_4:
+  - text: |+
+      Advantages of Cloud Connected Drone Video
+      
+      Live Streaming, Cloud Connected Drone Video, Cutting-edge cloud-connected drones can leverage video-specific cloud modules, such as within AD Cloud, to allow for the live streaming of UAV captured footage for a multitude of use cases.Specifically, in the areas of security, monitoring, and news broadcasting, the ability to live stream video imagery is crucial, and allows for real-time viewing of video feeds by security teams and news viewers at remotely.
+
+      High resolution delivery, The use of high-end, professional grade optical sensors allows for the delivery of Full HD, Ultra HD (4K), Full Ultra HD (8K) videos, and even higher image resolutions currently under development.
+
+      Cloud storage, One of the most significant advantages of cloud storage services, such as within the AD Cloud, is that it eliminates the need for expensive servers or fragile hard drives to be purchased by UAV business operators, providing safety and reliability via permanent cloud storage.
+
+      Multiple Sensors, By utilizing state-of-the-art cloud platforms, such as the AD Cloud, UAV service providers can connect multiple drone sensors to an integrated system, providing a uniform user experience
+
+      Data analysis, Notification service, Sharing Videos are soe other advantages
+
+
+  utter_step3_3_5:
+  - text: |+
+      Advantages of Drone Videography
+      
+      When compared to any other aerial video solution, UAVs can achieve a multitude of viewpoints, angles, and movements.
+
+      Other advantages to be considered among the many in UAV videography include the ability to edit in real time, lower costs, decrease take errors, and mitigate risks.
+
+      Drone cinematography, Coverage of Sporting and entertainment, News and Marketing, Cinematography are the other advantages of Drones
+
+      UAV cinematic language is unique due to the endless types of shots that are possible; however, there are a few that are routinely applicable to a Hollywood action scene.
+
+  utter_step3_4_1:
+  - text: |+
+      Drone Surveying and UAV Applications
+
+      Drones are used by professional surveyors to gather precise location, distance, and volumetric measurements, which aid in the production of digital models that depict places in minute detail and with numerous layers of data.
+
+      In essence, surveying UAVs are a cost-effective, user-friendly, and time-saving option for automating the collection of extremely useful data from the field, even in difficult-to-reach physical situations.
+
+      LiDAR and photogrammetry, When it comes to drone surveying missions, LiDAR and photogrammetry are two of the most extensively utilised technologies, and they are crucial competency areas for any UAV company looking to establish itself as a competent surveying solutions provider.
+
+      Big Data, the process of gathering, storing, retrieving, and processing enormous amounts of data has improved dramatically in recent years, ushering in the era of big data. When we examine the massive amounts of data that UAVs can collect from the air, the value of big data in surveying becomes obvious.
+
+  utter_step3_4_2:
+  - text: |+
+      Drone Surveying, Drone surveying entails mapping terrain and infrastructure with precise topographic, positional, distance, and volumetric measurements using a variety of sensor payloads.
+
+      Terrain modeling, Terrain modeling refers to the process of creating 3D representations of a physical location, with details such as elevation models, contours and break lines that provide critical information for on-field operations. The accuracy and agility of surveying drones make them the perfect tool for capturing these details.
+
+      Interior spaces,  Because of their agility in tight spaces, smaller surveying drones are often used to map interiors. Where traditional technologies can fail to produce quality results, small surveying drones can play a key role in environmental design. 
+
+      Damage assessment and Disaster assessment ,Surveying drones can analyse locations where humans would be unsafe or unable to conduct a survey on the ground both before and after a disaster. Drones can scan an area ahead of a disaster, give important data in real time, and input it into early warning systems. They can swiftly develop hazard maps for rescue and repair teams after a tragedy
+
+
+  utter_step3_4_3:
+  - text: |+
+      Surveying for industrial construction, Due to the cost, time, and quality advantages that surveying drones can bring, delivering professional-grade surveys for large building projects is a well-developed high-revenue area in which UAV solutions are gaining evermore market share.
+
+      When it comes to delivering a surveying assignment, the UAS supplier must take into account a slew of technical factors that have a direct impact on the desired final result.
+
+      Accuracy and speed, Data accuracy is a problem that can have a significant impact on mission expenses. Because no two technical solutions are alike, the client and UAS provider must assess the intended tradeoff between speed and precision.
+
+      Mission planning, Producing high-quality orthomosaic maps requires a well-thought-out flight plan and professionally executed data organization efforts. As the UAS service provider on a surveying mission you must prioritize the following key factors like High-resolution imagery
+
+      Data volumes and its processing,  Given that UAVs have limited data storage and processing capabilities, the volume of data collected and the speed with which results are required are critical factors to consider when deciding if cloud-capable UAVs are necessary.
+
+  utter_step3_4_4:
+  - text: |+
+      Handling big data in surveying
+
+      Geographical big data, The rapid advancement of modern surveying in recent years has resulted in substantially enhanced geographic data collecting and processing capabilities, with satellites, aeroplanes, and low-altitude UAVs able to collect vast amounts of data.
+
+      This wealth of data has made it possible to create intricate three-dimensional models of our geographic contexts in ways that were before impossible.
+
+      Cloud data storage, Cloud storage enables a variety of networked devices to work together, thanks to application software embedded inside the cloud framework. This, of course, necessitates cloud-based storage and extraction.
+
+      Creating a knowledge map, Building smart cities,Large scale surveying and mapping are possible with the handling of Big Data in videography
+
+      Big data and surveying solutions, information has become a very valuable commodity in the era of big data, presenting a once-in-a-lifetime opportunity for the optimization of geographic information service systems.
+
+
+  utter_step3_4_5:
+  - text: |+
+      Drone surveying , LIDAR and Photogrammetry
+      
+      Surveying is a time-consuming and cost-intensive activity within a number of industries and the use of UAVs is driving a multitude of highly effective solutions.When mission planning, it is important to distinguish between a map, which is a visual representation of the geography, and a survey, which is used to measure exact positions and distances.
+
+      Applicaitons include terrain modeling, geological surveys, construction monitoring, interior space mapping, smart city operations, municipal land surveying, mining and port operations. 
+
+      Professional-grade survey drones gather data with extremely high levels of accuracy and provide significant time and cost advantages, all while eliminating the need for large teams on the ground.
+
+      LIDAR payloads, LiDAR sensors emit laser pulses and measure the time it takes for them to bounce back, much like radar technology. This establishes very accurate distance and position metrics.
+
+      Photogrammetry payloads, By capturing a large number of high-definition images from multiple angles, photogrammetry allows for creating a detailed 2D or 3D model of any given area using specialized software.
+
+  utter_step3_5_1:
+  - text: |+
+      Security Drones and there Applications  
+      
+      From monitoring assets and responding to alarms, to conducting initial assessments and improving overall situational awareness, drones are deployable across a range of industries, from public safety and law enforcement, to corporate and home security.With numerous applications, drones are enabling a significant transformation of security solutions.
+
+      There are a multitude of security solutions that can be offered by UAV service providers like in military and law enforcement, in the corporate world, private and home security.
+
+      Feature and Benefits, specialized hardware and software features to enhance their performance and dependability,  it allows for real-time monitoring and rapid response times, automated threat responses can also be programmed, Real-time situation recognition etc.
+
+      UAV Based Stations: which is basically a wireless charging dock capable of fully recharging a drone’s batteries in minimal time.
+
+  utter_step3_5_2:
+  - text: |+
+      Security Applications of Drones
+      
+      Security solutions using drones have significant advantages due to their mobility and aerial vantage points. As modern, cloud-connected devices, they also have the ability to leverage the latest compute technologies, giving them a definitive edge over human-managed systems.
+
+      Finally, the ability to automate missions and establish a 24/7/365 regimen for drone operations is within the realm of possibility, using modern cloud technologies and software control systems.
+
+      Key features of security drones are like Real-time video feeds, Automated threat response, Patrol scheduling, Redundancy management, for seamless, uninterrupted missions etc.
+
+      Solution design aspects are like Environmental conditions, Sensor technology, Level of automation, Data security, Desired security investment etc
+
+  utter_step3_5_3:
+  - text: |+
+      Drones at Industrial Sites
+      
+      When applied in an industrial setting, security drones are revolutionizing the way businesses protect their assets, prevent or minimize safety incidents, and ensure regulatory compliance
+
+      Large-scale industrial facilities, such as manufacturing plants, construction sites, factories, refineries, open quarry mines, and power grids, are just a few of the complex settings that require ongoing monitoring to keep employees safe and corporate assets secure
+
+      Industrial security, a security drone can help by performing targeted, one-time operations, or by providing 24/7 coverage, detecting critical malfunctions or environmental hazards, inspecting large-scale equipment or machinery etc
+
+
+  utter_step3_5_4:
+  - text: |+
+      AI for real-time situation recognition
+      
+      Computer vision in drones, for a UAV to successfully detect and identify objects while in flight, Machine Learning and Deep Learning algorithms deliver computer vision which allows the drone to recognize its environment.
+
+      Line monitoring is an intruder detection method that utilizes on-board processing and computer vision to detect motion, breaches and so on.
+
+      Labeling data, this is an annotation method of placing objects within a rectangular frame in aerial imagery, significantly enhancing visual recognition for a range of different objects.
+
+      Semantic segmentation allows for the enhanced recognition of objects of interest, greatly assisting in the classification, detection and segmentation of multiple entities that are present in the image, but that belong to the same semantic group
+  
+  utter_step3_5_5:
+  - text: |+
+      Security drones
+      
+      Security is one of the fastest growing sectors in UAV operations. Providing security services with drones is advantageous when it comes to automation, cost-effectiveness and scalability.
+
+      There are a multitude of scenarios to consider. In public safety and law enforcement scenarios, drones provide assistance during volatile situations, often saving property, resources and lives.
+
+      Security drones come equipped with specialized hardware and software that allows for tailored solutions. Real-time video is transmitted to monitoring centers for enhanced situational awareness.
+
+      Cheaper and more effective than humans, fixed cameras or stationary sensor based systems, security drones have general superiority in mobility and coverage.
+
+  utter_step3_6_1:
+  - text: |+
+      Industries and Assets, Drone-based asset inspections have become an essential tool for many industrial sectors, such as energy and utilities, oil and gas, telecommunications etc., providing a fast and efficient way by which to monitor asset health.
+
+      Drone asset inspections also play an important role in the oil and gas industry. A range of use cases exist due to the size and diversity of the industry infrastructure, such as onshore and offshore platforms, drilling rigs, refineries and pipelines, which demand tailored UAV solutions.
+
+      Assets are classified as fixed, linear or civilian, with each type demanding different types of drone setups, payloads, mission requirements and technical expertise.
+
+      Thermal cameras, Thermal cameras are a critical tool for asset inspections, especially within the E&U industry. They are used to identify temperature related anomalies.
+
+      Electromagnetic interference, When drones fly near power lines or electrical substations, they are subject to considerable amounts of electromagnetic interference. This phenomenon can scramble GPS systems, on which UAVs depend to navigate, and may require pilots to be able to fly without support from positioning systems.
+
+
+
+  utter_step3_6_2:
+  - text: |+
+      Advantages of using drones for Asset Inspection
+      
+      The asset inspection sector represents one of the largest target markets for job opportunities for commercial UAV service providers, with drone solutions being increasingly sought out to provide performance, cost and safety enhancements for organizations.
+
+      Quick deployment or launch, collection of in-depth and higher detail data, flexibility to suit a majority of inspections.
+
+      Assets can be divided into three main categories Fixed, Linear and Civilian
+
+      Few Assets are like Hydro-power facilities, Nuclear power plants ,Wind and solar farms, Telecommunications, Oil and gas facilities etc
+
+
+  utter_step3_6_3:
+  - text: |+
+      Inspecting assets for E&U 
+      
+      Successfully executing equipment and infrastructure inspections within the energy and utilities sector is a business that requires highly trained drone operators with the correct equipment and situational experience to conduct operations in environments that may pose multiple potential hazards.
+
+      Spot tower and powerline inspections, When potential issues are identified by ground inspection teams, the team supervisor routinely calls for spot inspections to obtain more information.
+
+      Patrols, Drones can be deployed to conduct detailed patrols of long stretches of power lines along with the supporting towers, greatly reducing the time it takes to conduct such routine inspections. 
+
+      Substation inspections, In terms of fixed assets, transformer and substation inspection is a typical activity. Using traditional methods, detailed inspections require substations to be turned off for human workers to conduct the inspection.
+
+      Natural disaster damage assessments, Drone data can greatly assist reconstruction planning efforts, providing precise information on the current state of power distribution infrastructure in situations where access may be limited or hazardous
+
+
+  utter_step3_6_4:
+  - text: |+
+      Asset health and improved ROI with Cloud-Based Analytics
+
+      Supervisory control and data acquisition, he ability to monitor a wide range of assets health indicators, by providing continuous updates on their current condition, is the most transformation in asset management activities and enables increased return on capital investments, or ROI
+
+      Determining residual life, The sweet spot of an asset life cycle is usually before reliability scores start to deteriorate and operating costs increase. Performance curves for each equipment type can be used to determine residual life.
+
+      Alerts and reaction time, The ability to deploy cloud connected drones to track and analyze individual components allows for specialized and detailed real-time analysis, enabling maintenance and operational teams to react instantly to alerts.
+
+      Computer vision and analytics, Cloud connected drone solutions utilize state-of-the-art image recognition technologies and AI-based computer vision for near real-time insights. By sending data to centralized cloud platforms, all information is stored, accessed and analyzed.
+
+  utter_step3_6_5:
+  - text: |+
+      Energy and utilities, With transmission lines and distribution poles, a single drone can inspect many miles per day, capturing both thermal and RGB imagery, while substation inspections, which are fixed assets, can generally be completed in a day.
+
+      Hydro and nuclear power, Nuclear power plants are classified as hazardous work environments, where UAV solutions are able to provide low-risk inspection capabilities that assist plants in reaching their As Low As Reasonably Possible, or ALARP goals.
+
+      Wind and solar farms, Drones with high-resolution camera payloads allow for inspection of both onshore and offshore wind farms, with the ability to identify fissures and other abnormalities on blades, rotor hubs or towers. 
+
+      Telecommunications, Within this sector, UAS providers can greatly benefit from connectivity, using cloud and edge capabilities, allowing for increased mission autonomy and centralized management.
+
+      Oil and gas, Improving safety is a key factor in these applications, and drone obtained data can enable valuable improvements, such as applying augmented reality to live drone feeds for more robust maintenance and compliance.
+
+      Drone-based E&U inspections, Drones are able to provide a range of visual perspectives for both distribution infrastructure and relay stations. However, you must always comply with specific regulations when dealing with critical infrastructure
+   
+
+  utter_step3_7_1:
+  - text: |+
+      Drones for Flora and Fauna
+
+      Flora and Fauna, Precision technology is altering the way farms, livestock, and wildlife are monitored and managed in the twenty-first century, much like mechanisation did in the previous century.
+
+      Active applications, crop spraying drones are becoming an indispensable tool for smart farmers, where advanced equipment is able to perform precision drops in a quick and efficient manner, be it fertilizers, herbicides, pesticides or water. 
+
+      The benefits of using drones for flora applications are numerous. From heightened efficiency and cost reductions, to early threat detections, habitat loss etc., resulting in increased yields and the identification of key quantitative and qualitative environmental trends.
+
+      Evaluating crop health, Drones with the correct cameras and sensors can provide agronomists and farmers with quick and cost-effective crop health analyses, delivering precise data to aid in critical decision-making processes.
+
+      Cloud based analytics in agriculture, the collection of large amounts of data on a regular basis via cloud connectivity greatly simplifies the identification and analysis of agricultural efficiency, allowing for a more efficient and centralised method of consolidating critical knowledge
+
+
+  utter_step3_7_2:
+  - text: |+
+      Monitoring flora and fauna
+
+      Drones with advanced sensor capabilities can monitor plants and assess crop health, allowing for early intervention to remedy problems and increase efficiency.
+
+      Wildlife monitoring, for example, is a typical application, affording aerial vantage points formerly only accessible by helicopter or plane.
+
+      Crop health management,by gathering quantitative and qualitative data on plant growth, maturity, insect pressure, nitrogen efficiency, and lack of water, drones equipped with modern spectroscopic sensors may properly analyse plant health and assist detect environmental hazards early on
+
+      Plant counting, drones are great for estimating crop yields, taking inventory, and assisting replanting decisions because machine vision algorithms can correctly count and quantify individual crop amounts.
+      
+
+  utter_step3_7_3:
+  - text: |+
+      Evaluating crop health with drones, 
+      
+      Professional plant health inspections for major agricultural businesses are a high-value sector where drone technologies are steadily increasing their market share.
+
+      Drones can assist discover infections and provide insights on factors like as plant maturity, weed pressure, nitrogen efficiency, and water shortages using smart sensors.
+
+      Data analysis, the use of spectral indices allows you to identify variability and sub-optimal plant health, but it won't tell you why that variability or poor crop health is happening.
+
+      Farmers can create detailed prescription maps from time and geo-referenced data, providing specific resource input rates for defined zones of a crop field, after analysing the wealth of information that can be extracted from spectral index maps and performing inspections to identify the exact causes of plant stress.
+
+  utter_step3_7_4:
+  - text: |+
+      Cloud-based analytics: The key to smart agriculture
+      
+      Cloud computing enables the consolidation and analysis of large volumes of data, such as weather patterns, soil quality, and growth patterns, in a quick and effective manner.
+
+      Enterprise-level sustainability, Anomalies and trends can be analysed with great precision using artificial intelligence and cloud computing technology.
+
+      Shortening the time from inspection to action
+
+      Smart farming is here, The insights gained may be used to drive proactive decision-making, autonomous operations, and enhanced sustainability, all while addressing the demands of farmers, businesses, and populations around the world.
+
+
+
+  utter_step3_7_5:
+  - text: |+
+      Drones in flora and fauna 
+      
+      Precision technology has revolutionised farming and ranching. Drone solutions are currently being successfully used by agronomists, agricultural engineers, ranchers, and farmers.
+
+      Monitoring of flora and animals extends beyond photography and area mapping. Deep insights for optimising commercial and environmental operations can be achieved by integrating drone data with analysis.
+
+      Evaluating crop health , Farmers and agronomists are discovering the efficacy of drone data for monitoring crop health and supporting strategic decisions, and demand for drone solutions applied to agricultural yields is rapidly expanding.
+
+      Cloud: The next big evolution in agriculture, it will increasingly assist farmers in collecting, managing, analysing, and acting on data collected from drones deployed in agricultural and animal operations as broadband coverage increases into distant areas.
+
+# STEP FOUR
+  utter_step4:
+  - buttons:
+    - payload: /step4_2
+      title: '4.2'
+    - payload: /step4_3
+      title: '4.3'
+    - payload: /step4_4
+      title: '4.4'
+    - payload: /step4_5
+      title: '4.5'
+    - payload: /step4_6
+      title: '4.6'
+    - payload: /step4_8
+      title: '4.8'
+    text: Welcome to Step Four! Select a module to go over.
+
+  utter_step4_2:
+  - buttons:
+    - payload: /step4_2_1
+      title: '4.2.1'
+    - payload: /step4_2_2
+      title: '4.2.2'
+    - payload: /step4_2_3
+      title: '4.2.3'
+    - payload: /step4_2_4
+      title: '4.2.4'
+    - payload: /step4_2_5
+      title: '4.2.5'
+    text: Welcome to Step 4.2.
+    
+  utter_step4_3:
+  - buttons:
+    - payload: /step4_3_1
+      title: '4.3.1'
+    - payload: /step4_3_2
+      title: '4.3.2'
+    - payload: /step4_3_3
+      title: '4.3.3'
+    - payload: /step4_3_4
+      title: '4.3.4'
+    - payload: /step4_3_5
+      title: '4.3.5'
+    text: Welcome to Step 4.3.
+  
+  utter_step4_4:
+  - buttons:
+    - payload: /step4_4_1
+      title: '4.4.1'
+    - payload: /step4_4_2
+      title: '4.4.2'
+    - payload: /step4_4_3
+      title: '4.4.3'
+    - payload: /step4_4_4
+      title: '4.4.4'
+    - payload: /step4_4_5
+      title: '4.4.5'
+    text: Welcome to Step 4.4.
+  
+  utter_step4_5:
+  - buttons:
+    - payload: /step4_5_1
+      title: '4.5.1'
+    - payload: /step4_5_2
+      title: '4.5.2'
+    - payload: /step4_5_3
+      title: '4.5.3'
+    - payload: /step4_5_4
+      title: '4.5.4'
+    - payload: /step4_5_5
+      title: '4.5.5'
+    text: Welcome to Step 4.5.
+  
+  utter_step4_6:
+  - buttons:
+    - payload: /step4_6_1
+      title: '4.6.1'
+    - payload: /step4_6_2
+      title: '4.6.2'
+    - payload: /step4_6_3
+      title: '4.6.3'
+    - payload: /step4_6_4
+      title: '4.6.4'
+    - payload: /step4_6_5
+      title: '4.6.5'
+    text: Welcome to Step 4.6.
+  
+  utter_step4_8:
+  - buttons:
+    - payload: /step4_8_1
+      title: '4.8.1'
+    - payload: /step4_8_2
+      title: '4.8.2'
+    - payload: /step4_8_3
+      title: '4.8.3'
+    - payload: /step4_8_4
+      title: '4.8.4'
+    - payload: /step4_8_5
+      title: '4.8.5'
+
+    text: Welcome to Step 4.8.
+
+
+    
+  
+  utter_step4_2_1:
+  - text: |+
+      UAV market opportunities, Target Applications, Operation planning, AD solution framework and Transports as a service
+
+      The market for UAV solutions is one of the fastest growing in the technology sector, with exponential growth expected over the next five years.
+
+      The increasing complexity of drone solutions necessitates meticulous operational planning to ensure that you, as a UAV service provider, can complete successful missions while avoiding additional problems.
+
+      However, to be cost-competitive in large-scale deployments, drones service providers must deliver highly scalable solutions.
+
+      TaaS solutions, which allow the integration of numerous modes of transportation to deliver payloads in on-demand environments, are one of the primary growth areas in the UAV business.
+
+      It is critical to set up sufficient time for detailed mission and flight planning so that all regulatory, resource, risk, and safety concerns may be handled.
+
+  utter_step4_2_2:
+  - text: |+
+      Drone opportunity Review
+
+      The commercial drone business in the United States is one of the fastest-growing segments of the economy.
+
+      In this part, we will look at present and future market trends in the UAV business, as well as key sectors where the industry is predicted to develop the most.
+
+      All of the target industries are embracing the benefits of UAV applications in their sector as capabilities in the UAV industry rapidly mature, and market growth is predicted to accelerate.
+
+      For surveying and mapping, high-endurance autonomous drones with selected sensors from a full spectrum capability matrix offer a wide range of options.
+    
+  utter_step4_2_3:
+  - text: |+
+      Drone operations
+
+      It begins with pre-operation planning. This is a must for any drone operator who desires to be well-prepared, deliver high-quality services and gain client trust.
+
+      To be successful in commercial operations, you must be well-versed in the fundamental factors for good UAV mission planning.
+
+      To begin, determine who or what group of persons has the authority to request, approve, plan, and deploy flying operations, as well as under what conditions they can do so.
+
+      Drone pilots can seek for near-instant airspace authorization using a mobile or online application as part of the FAA Low Altitude Authorization and Notification Capability (LAANC) initiative.
+
+      Drone flights can be set up in two different ways. It is either a manual setup, in which the flight path is laid out as a guide for the PIC, or an automated flight, in which the drone receives GPS data from the flight planner, which tells it where to go.
+
+  utter_step4_2_4:
+  - text: |+
+      Taas, Smart logistics framework and Market opportunity
+      
+      A unified control platform autonomously executes and monitors the transportation and transfer of the payload throughout the logistic phases once the client has accepted the preferred delivery option.
+
+      Important or valuable cargo can be loaded inside a smart container with cloud-connected sensors that offer essential real-time measurements throughout the journey and can be transported by any form of transport.
+
+      Dispatch, deployment, tracking, and security are all carried out without the need for direct human interaction, resulting in significant efficiency advantages, risk mitigation, more transparency, and shorter timescales.
+
+      The logistics industry still has a lot of inefficiencies, with the first and last miles being particularly difficult to perform properly for on-demand requests.
+
+  utter_step4_2_5:
+  - text: |+
+      UAV Market growth, Active and passive application, Enterprise asset management
+
+      Based on size, growth, and ease of entrance, AD focuses on the most mature and attractive areas.
+
+      Over the next decade, the integration of UAV operations into enterprise-class operations will be in high demand, necessitating the integration of drones with existing EAM systems.
+
+      Professional operational planners cycle through a checklist of actions to achieve optimal pre-flight preparedness, with specific activities linked to assessing and preparing for UAV missions.
+
+      You will require sophisticated UAV operations management as a UAV provider if you want to give high-quality integrated services with scalability and cost advantages.
+
+      Surveying and mapping, security with autonomous drones, asset inspection with a variety of sensors, and multi-spectral flora and fauna monitoring for agricultural and environmental operations are just a few of the services available.
+
+  utter_step4_3_1:
+  - text: |+
+      Business plan, operation and finance, Market analysis, Targeting and market sizing
+
+      A well-thought-out business plan will lead you through each stage of starting, operating, and developing your business.
+      
+      Explain what your firm does and why it will succeed, including details about your product or service, organisational and cost structures, staff count, financial prospects, expansion goals, and other pertinent facts.
+
+      Market share is an extremely significant indicator for all firms to calculate on a regular basis, as it serves as a continuous baseline for comparing expected growth to actual results.
+
+  utter_step4_3_2:
+  - text: |+
+      You will learn how to create a business plan for your commercial drone startup in this chapter.
+
+      So, let us get started on learning about business plans, how to make them, how to use them, and the influence they may have on your commercial drone business.
+
+      This could be based on the industry or the sort of application. AD, for example, provides specific training in videography, surveying and mapping, flora and fauna, asset inspection, and security for UAS providers.
+
+      describe your industry specialisation; in another, describe your products and services. Provide a thorough yet succinct overview, making sure to cover all of the key value propositions.
+
+  utter_step4_3_3:
+  - text: |+
+      For any commercial drone enterprise, there is a linear relationship between how well you understand your target market, and how successful you will be.
+
+      There is a direct correlation between how well you understand your target market and how successful your commercial drone business will be.
+
+      This is a crucial criterion for creating positive business outcomes for your clients.
+
+      Next, figure out how frequently your drone services will be bought in your target market. Then calculate out what percentage of this yearly total you either have or can achieve in your industry's prospective annual purchase.
+
+      The 'elevator pitch' is named for the amount of time it should take to deliver it, which is around thirty to sixty seconds for a brief elevator journey.
+
+      Finally, your marketing strategy should contain all of the methods you use to interact with your target markets in order to make them aware of your products or services.
+
+
+  utter_step4_3_4:
+  - text: |+
+      Executive summary, Company description, Market analysis, Competitive analysis and Financial summary
+      
+      Your goal statement, basic information on when and by whom your company was started, a description of your products or services, highlights of your progress thus far, and a synopsis of how you want the business to expand should all be included in the one-page executive summary.
+
+      Describe your product or service, who you serve, and how you differ from and outperform your competition.
+
+      You should include a clear explanation of who performs what in your organisation, as well as background information for key participants, even in extremely small businesses and sole proprietorships.
+
+      Discuss your messaging approach, as well as how and where you'll distribute it.
+
+      Focus on who will be in charge of sales, how you'll train any outside support, and the strategies you'll use to find, attract, and convert leads when it comes to sales.
+
+
+  utter_step4_3_5:
+  - text: |+
+      Formulating a business plan should be the first thing that you do when starting a new commercial drone business
+      
+      A successful business isn't guaranteed by a business strategy. It will, however, assist you in avoiding some typical causes of business failure.
+
+      A table of contents is required so that readers may discover information easily. Then, as a quick perusal of the core value propositions, begin with an executive summary or statement of purpose.
+
+      Business plans are essential for attracting investors and determining whether your company is on track and worth investing in.
+
+      Knowing your consumer and grasping your market opportunity are critical to determining how to price your services and market your company.
+
+  utter_step4_4_1:
+  - text: |+
+      LLC definition, Registering Your LLC Business, Federal and state tax requirements, Risk management and insurance
+
+      A Limited Liability Company (LLC) is a corporate structure that is permitted by state law, according to the IRS. When it comes to registering a business, each state may have its own set of rules and fees.
+
+      Every state's regulations mandate that new business names be distinct from those of existing businesses in that jurisdiction. That implies you can't pick a name that's the same as another business entity's or is only distinguishable by a "s" at the end or a different business entity identification. 
+
+      A new LLC must file formation documents with the state and pay a filing fee. The state will impose a one-time fee as well as annual filing fees. These costs differ by state, so be sure to check your state's regulations.
+
+      If your state requires it, you will receive a 1099 from AD for any income you received over the previous year, which you can use to file your federal and state taxes. We recommend that you seek advice from a tax specialist.
+
+  utter_step4_4_2:
+  - text: |+
+      There are many corporate structures that can be utilized for Flight to the Future participants.
+
+      Participants in Flight to the Future can choose from a variety of company forms. For programme grads, the Limited Liability Company (LLC) structure offers the finest combination of ease, tax advantages, and legal safeguards.
+
+      Interior spaces,  Because of their agility in tight spaces, smaller surveying drones are often used to map interiors. Where traditional technologies can fail to produce quality results, small surveying drones can play a key role in environmental design. 
+
+      AD will provide you with the resources you'll need to file the necessary papers and register your company in the state where you wish to do business.
+      
+      A new LLC must file formation documents with the state and pay a filing fee. The state-specific forms that officially constitute an LLC are known as LLC formation paperwork.
+      
+      Operating Agreement empowers the owner to control the business rather than the state's laws. Some state default regulations, for example, provide that members partake equally in earnings regardless of their capital contributions.
+
+
+  utter_step4_4_3:
+  - text: |+
+      From a broader perspective, UAV operations create unique risks for UAV business owners who own and use drone equipment.
+
+      Aviation insurance includes liability and UAV hull insurance. It safeguards businesses that use planes and other aircraft for business purposes.
+
+      Everything relating to injuries and property damage caused by you or your business workers while operating your UAVs falls under the responsibility section.
+
+      Payload, ground equipment, data or privacy breaches, and cyber insurance are all covered under the 'layers of insurance' category.
+
+      The policy defends you against third-party claims of property damage or injury, such as when a UAV collides with a building, automobile, or person, and you are sued for medical expenses.
+
+  utter_step4_4_4:
+  - text: |+
+      Contains key steps for LLC formation
+
+      Determine the number of members or owners of the company you're founding, as each must be stated on the papers. Do some research and come up with a unique name for your company. Make a decision about how you'll handle your yearly state filings.
+
+      Obtain your Employer Identification Number (EIN) from the federal government.
+
+      To receive revenue and pay business expenses, you'll need to open a business bank account. You must take the papers from your state and the IRS to the bank in order for them to open an account in your company's name exactly as it appears on official documents.
+
+      We at AD are entrepreneurs who are passionate about encouraging people to take control of their own destiny. As a result, you can rely on us to provide you with the resources you need to succeed, as well as ongoing assistance as your company expands.
+
+  utter_step4_4_5:
+  - text: |+
+      Forming a Limited Liability Company or LLC protects the business owner by shielding their personal assets from the assets and operations of the business.
+      
+      A new LLC must file formation documents with the state and pay a filing fee. The state-specific forms that officially constitute an LLC are known as LLC formation paperwork.
+
+      Determine the number of members, choose a name, establish a domicile, select a registered agent, and file the necessary documents with the state.
+
+      Accidents can happen regardless of how skilled you are as a UAV pilot and how well you have practised risk management.
+
+      Aviation insurance, also known as liability and UAV hull insurance, covers businesses that employ planes and other aircraft for business purposes.
+
+      Ground and Flight, Not in Flight, and Not in Motion are the three coverage possibilities to be aware of. Except where specifically excluded, all three policies cover harm caused by any risk.
+
+  utter_step4_5_1:
+  - text: |+
+      What is captial, pursuing capital, Sales management, Sales pipeline
+      
+      The subject of how to raise financing for a business is always on the minds of new business owners. While money does not grow on trees, there are several options for obtaining finance for your company.
+
+      The development of a sales force, coordination of sales operations, and implementation of techniques for a commercial drone business to hit and exceed sales targets are the three key focal points within sales management, entailing the development of a sales force, coordination of sales operations, and implementation of techniques for a commercial drone business to hit and surpass sales targets.
+
+      Business owners should be completely aware of multiple costs such as staff, equipment, maintenance, insurance, compliance, taxes, and licensing in order to determine capital investment requirements, providing time for adequate and sensible planning.
+
+  utter_step4_5_2:
+  - text: |+
+      The management of personal and corporate finances will be comparable for a new business owner. Earning techniques, paying federal and state income taxes, managing spending, and utilising capital assets are all examples of disparities
+      
+      the Limited Liability Company (LLC) structure provides the finest combination of simplicity, tax benefits, and legal protections for small business owners while also protecting personal assets from the company's assets and operations
+
+      the Limited Liability Company (LLC) structure provides the finest combination of simplicity, tax benefits, and legal protections for small business owners while also protecting personal assets from the company's assets and operations.
+
+      There are three types of equity capital available: private equity, public equity, and real estate equity.
+
+      The assumption of debt is one way for a company to obtain financing. Friends, family, financial institutions, online lenders, credit card companies, insurance companies, and federal lending programmes can all help with debt capital
+
+  utter_step4_5_3:
+  - text: |+
+      Sales and cash management
+      
+      Aquiline's Drone on Demand ecosystem, on the whole, gives you access to a wide customer base and allows you to develop your commercial drone business and service offerings to meet your objectives.
+
+      Sales management is the act of establishing a sales staff, coordinating sales operations, and executing sales techniques that enable a company to consistently meet, if not exceed, its sales goals.
+
+      The sales crew is the company's backbone, which may or may not come as a surprise. They are incredibly crucial in generating excellent results since they represent the direct connection between the product and the customer.
+
+
+  utter_step4_5_4:
+  - text: |+
+      Managing Capital Resources
+      
+      Having the best tools When going on a project, having the proper equipment is critical to delivering consistent results and providing a product that meets the customer's expectations.
+
+      The logistics surrounding specific applications sought by a commercial drone firm will influence prices, particularly if specialist equipment is required, such as the type or number of drones needed to execute a task.
+
+      For sustained airworthiness, commercial drones require routine preventative maintenance, servicing, and inspection, which should be performed by certified and trained experts.
+
+      Ground and Flight, Not in Flight, and Not in Motion are the three coverage possibilities to be aware of. Except where specifically excluded, all three policies cover harm caused by any risk.
+  
+  utter_step4_5_5:
+  - text: |+
+      Pursuing Capital, Working Capital, Equity Capital etc.
+      
+      Capital is typically cash or liquid assets held or obtained for expenditures, for providing ongoing production of goods and services for creating profit or used as investment to create value for a firm
+
+      Working capital measures a company's short-term liquidity—more specifically, its ability to cover its debts, accounts payable, and other obligations that are due within one year.
+
+      Private equity is not raised in the public markets and instead, it usually comes from a select group of investors or owners.
+
+      Sources include financial institutions, online lenders, credit card companies, insurance companies, along with federal and state lending programs.
+
+  utter_step4_6_1:
+  - text: |+
+      Drone equipment, UAV sensors, Personnel requirements, Primary roles, A real-life example, MRO
+
+      Drones are more formally known as unmanned aerial vehicles (UAVs) or unmanned aircraft systems (UASes). Essentially, a drone is a flying robot that can be remotely controlled or fly autonomously through software-controlled flight plans in their embedded systems, working in conjunction with onboard sensors and GPS.
+
+      Maintenance, Repair and Overhaul, or MRO, usually refers to FAA and manufacturer prescribed maintenance repair activities of various types and complexities. Here we will touch upon each of the processes that comprise MRO, as well as understanding insurance and liability.
+
+      3-axis gyroscope: This sensor is used to provide angular motion to the drone.
+
+      Light Detection and Ranging (LiDAR)
+
+
+  utter_step4_6_2:
+  - text: |+
+      special drone sensors
+      
+      Active sensors are well active. They emit some type of wave or radiation.
+
+      Passive sensors detect waves or radiation, receiving information as it is detected in the natural world. The main examples are eyes and ears
+
+      LiDAR, or Light Detection and Ranging, technology resembles its sister technology, radar. But instead of emitting and analyzing radio waves, it produces and measures rapid laser pulses.
+
+      Thermal sensors are able to accurately measure surface temperatures. Every object gives off a heat signature, and thermal sensors are able to translate that signal into a false color optical image
+
+
+  utter_step4_6_3:
+  - text: |+
+      It is important to keep in mind that as mission complexity increases, so does personnel requirements, and that a business focused on videography for social events has very different personnel requirements compared to one that conducts offshore platform inspections.
+      
+      The main roles generally employed by UAV service providers include:Owner, Pilot-in-Command, Operator, Visual observer, Sensor specialist etc.
+
+      The owner could be a purchaser of the UAV or the overall UAV Operation, the LLC. The owner could also serve in other roles such as the Pilot in Command (PIC) and be an owner operator of the commercial drone business. The owner could also serve in an auxiliary crew capacity.
+
+      The operator, who is a member of the auxiliary crew, may take control of the UAV under the direct supervision of the certified PIC. They must be well versed in the flight control of various UAV models and be briefed in detail on the planned flight path.
+
+      A Visual Observer or VO is an optional crew member who serves as a second set of eyes, monitoring the drone during flight to provide support to the Pilot-in-Command. The Visual Observer must be able to see the UAV throughout the entirety of the mission and must always be in direct communication with both the PIC and operator.
+
+      A sensor specialist is an operator who is trained to manipulate the sensor payloads that are required to execute mission objectives. Considering the wide set of applications that UAVs are now being deployed for, sometimes multiple specialists will be required for more complex solutions.
+
+
+  utter_step4_6_4:
+  - text: |+
+      Facilities: Maintenance, Repair, and Overhaul (MRO)
+
+      In aviation, the term Maintenance, Repair and Overhaul (MRO) traditionally refers to FAA certified maintenance repair stations, with strict adherence to established federal regulations which govern their service, under 14 CFR Part 145.
+
+      While Part 107.15 requires the remote PIC to ensure that the UAV is in condition for safe flight, both prior to and during its operation, it does not provide structured procedures by which to accomplish this.
+
+      There may be components of a UAV that are identified by the manufacturer to undergo scheduled periodic maintenance or replacement based on time-in-service limits, such as flight hours, cycles, and calendar days.
+
+      In our endeavor to model our AD ecosystem in alignment with aviation industry standards, we are taking established steps towards applying aviation-grade MRO practices to AD’s product line.
+      
+      When a loaner aircraft is provided, the liability associated with the AD-owned loaner drone transfers automatically to the client once the loaner is paired to the AD Cloud.
+
+  utter_step4_6_5:
+  - text: |+
+      As missions get complex, so do the tools. Optimizing the right aircraft and sensors to an application use case is critical when planning for a drone mission.
+
+      Active sensors emit some form of radiation or sound, and then detect the reflected signals. Examples include LiDAR, radar and sonar.
+
+      Drones depend on specialized sensors like LiDAR, thermal, multi-spectral and spectroscopic instruments to inspect assets, analyze natural environments and gather scientific data.
+
+      Hyperspectral sensors go deeper and are capable of creating three-dimensional imagery, such as within the forestry industry where UAVs are able to identify the exact species of certain trees.
+
+      UAS providers must correctly identify the human resource requirements that will guarantee the successful implementation of client services, whether it be on-field or in the office.
+
+      An operator can serve as a member of the auxiliary crew and may operate the controls of the UAV under the direct supervision of a certified Pilot in Command.
+   
+
+  utter_step4_8_1:
+  - text: |+
+      Communications, External versus internal, Marketing 101, Promotional mix, Marketing budget
+
+      Communication is essential to the success of any business and the process of transferring information from one person to another within and outside the business environment
+
+      A communications plan provides a clear path forward, guiding where and how to place resources and efforts.
+
+      Even though internal and external communications activities may be different, both systems have similar goals and need to be aligned when delivering messages to employees, customers and other stakeholders.
+
+      For a company’s success, it’s imperative that internal and external communications plans work together and are as complimentary as possible.
+
+      The best promotional options for your business will depend on your target audience and what is the most cost-effective way to reach as many as possible and as many times as possible.
+
+
+  utter_step4_8_2:
+  - text: |+
+      Best practices for communication
+
+      By creating a comprehensive external communication or marketing plan designed to inform, educate and promote your specific drone services to your key prospects, supporters and the general public. You will learn more about this in the Marketing 101 segment.
+
+      As the multi-billion-dollar commercial drone industry continues to grow you might find that taking on more missions will require hiring additional employees or subcontractors.
+
+      Taking the time to keep everyone in the loop fixes potential issues and can give your organization a major strategic advantage in these changing times. Therefore, it’s essential to focus not just on what you’re communicating but also how you’re communicating it.
+
+      AD can set you up with the tools needed to launch and propel your specific drone business to new heights among your staff, customers and overall community.
+      
+      Communication – both external and internal, is an essential element in the success of any business.
+      
+
+  utter_step4_8_3:
+  - text: |+
+      Your promotional strategy is vital to your business as it ties all other marketing activities together. You might have an amazing product, the most profitable pricing strategy, and the best possible location, but unless you’re sharing the right message with the right audience your marketing efforts will fall flat.
+      
+      A carefully crafted strategy of the right promotional mix can be the difference between success and failure. Without effective promotion customers can’t learn about your product and service offerings.
+
+      The first promotional element is advertising and its main benefit is 100% control of your message in whatever medium you choose.
+
+      Advertising generates an immediate call to action and offers more personal exposure for the business owner.
+
+      An incentive, such as a discount, coupon, bonus points, BOGO or free offering, designed to attract and entice customers to make a purchase.
+      
+      Companies share their organizational news, programs and other key messages with the press.
+
+  utter_step4_8_4:
+  - text: |+
+      AD marketing services: Website and blogging, Social Media, Mobile networking
+      
+      Websites play a pivotal role for businesses since they serve as a hub for marketing activities related to building a brand, while elevating awareness about products and services. 
+
+      Popular platforms such as Facebook, LinkedIn, Instagram, Twitter, Snapchat, TikTok, Pinterest, YouTube, Reddit, Tumblr and Flickr help business owners engage with specific market sectors.
+
+      Mobile marketing is a multi-channeldigital marketing strategy that reaches a target audience in real-time, repeatedly and at the right moment, be it on their smartphones, tablets or other mobile devices via websites, email, text messaging, social media and apps.
+
+      To calculate return on investment (ROI),subtract your total marketing expense from your total revenue, then divide by the total marketing expense andmultiply by 100. The higher the percentage, the better your ROI.
+
+
+  utter_step4_8_5:
+  - text: |+
+      Communication is key to running a successful drone business
+      
+      The most successful plans use a combination of both strategies, which leads to increased customers, enhanced business partnerships, augmented employee morale and elevated profit levels.
+
+      Sound internal communication provide major advantages.As a company grows, creating positive communication among employees and subcontractors prevents potential issues, resolves problems and keeps the business profitable.
+
+      A drone business needs to find the right blend of promotional tools, techniques and timing, while monitoring results and making adjustments to produce a lucrative promotional effort.
+
+      Regardless of your chosen promotional mix, at least twelve to twenty percent of a new company’s gross revenue should be allocated to marketing.

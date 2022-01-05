@@ -1,0 +1,1196 @@
+version: "2.0"
+
+
+stories:
+
+step one:
+
+  step_one_enter:
+    - story: step one 
+      steps:
+        - intent: step_one
+        - action: utter_step1
+
+  step_one_sections:
+    - story: step 1.1
+      steps:
+        - intent: step1_1
+        - action: utter_step1_1
+
+    - story: step 1.2
+      steps:
+        - intent: step1_2
+        - action: utter_step1_2
+
+    - story: step 1.3
+      steps:
+        - intent: step1_3
+        - action: utter_step1_3
+
+    - story: step 1.4
+      steps:
+        - intent: step1_4
+        - action: utter_step1_4
+
+    - story: step 1.5
+      steps:
+        - intent: step1_5
+        - action: utter_step1_5
+
+    - story: step 1.6
+      steps:
+        - intent: step1_6
+        - action: utter_step1_6
+
+    - story: step 1.7
+      steps:
+        - intent: step1_7
+        - action: utter_step1_7
+
+    - story: step 1.8
+      steps:
+        - intent: step1_8
+        - action: utter_step1_8
+
+    - story: step 1.9
+      steps:
+        - intent: step1_9
+        - action: utter_step1_9
+
+    - story: step 1.10
+      steps:
+        - intent: step1_10
+        - action: utter_step1_10
+
+    - story: step 1.11
+      steps:
+        - intent: step1_11
+        - action: utter_step1_11
+
+    - story: step 1.12
+      steps:
+        - intent: step1_12
+        - action: utter_step1_12
+
+  step_one_section2:
+    - story: step 1.2.1
+      steps:
+        - intent: step1_2_1
+        - action: utter_step1_2_1
+
+    - story: step 1.2.2
+      steps:
+        - intent: step1_2_2
+        - action: utter_step1_2_2
+
+    - story: step 1.2.3
+      steps:
+        - intent: step1_2_3
+        - action: utter_step1_2_3
+
+    - story: step 1.2.4
+      steps:
+        - intent: step1_2_4
+        - action: utter_step1_2_4
+
+    - story: step 1.2.5
+      steps:
+        - intent: step1_2_5
+        - action: utter_step1_2_5
+
+  step_one_section3:
+    - story: step 1.3.1
+      steps:
+        - intent: step1_3_1
+        - action: utter_step1_3_1
+
+    - story: step 1.3.2
+      steps:
+        - intent: step1_3_2
+        - action: utter_step1_3_2
+
+    - story: step 1.3.3
+      steps:
+        - intent: step1_3_3
+        - action: utter_step1_3_3
+
+    - story: step 1.3.4
+      steps:
+        - intent: step1_3_4
+        - action: utter_step1_3_4
+
+    - story: step 1.3.5
+      steps:
+        - intent: step1_3_5
+        - action: utter_step1_3_5
+
+  step_one_section4:
+    - story: step 1.4.1
+      steps:
+        - intent: step1_4_1
+        - action: utter_step1_4_1
+
+    - story: step 1.4.2
+      steps:
+        - intent: step1_4_2
+        - action: utter_step1_4_2
+
+    - story: step 1.4.3
+      steps:
+        - intent: step1_4_3
+        - action: utter_step1_4_3
+
+    - story: step 1.4.4
+      steps:
+        - intent: step1_4_4
+        - action: utter_step1_4_4
+
+    - story: step 1.4.5
+      steps:
+        - intent: step1_4_5
+        - action: utter_step1_4_5
+
+  step_one_section5:
+    - story: step 1.5.1
+      steps:
+        - intent: step1_5_1
+        - action: utter_step1_5_1
+
+    - story: step 1.5.2
+      steps:
+        - intent: step1_5_2
+        - action: utter_step1_5_2
+
+    - story: step 1.5.3
+      steps:
+        - intent: step1_5_3
+        - action: utter_step1_5_3
+
+    - story: step 1.5.4
+      steps:
+        - intent: step1_5_4
+        - action: utter_step1_5_4
+
+    - story: step 1.5.5
+      steps:
+        - intent: step1_5_5
+        - action: utter_step1_5_5
+
+  step_one_section6:
+    - story: step 1.6.1
+      steps:
+        - intent: step1_6_1
+        - action: utter_step1_6_1
+
+    - story: step 1.6.2
+      steps:
+        - intent: step1_6_2
+        - action: utter_step1_6_2
+
+    - story: step 1.6.3
+      steps:
+        - intent: step1_6_3
+        - action: utter_step1_6_3
+
+    - story: step 1.6.4
+      steps:
+        - intent: step1_6_4
+        - action: utter_step1_6_4
+
+    - story: step 1.6.5
+      steps:
+        - intent: step1_6_5
+        - action: utter_step1_6_5
+
+  step_one_section7:
+    - story: step 1.7.1
+      steps:
+        - intent: step1_7_1
+        - action: utter_step1_7_1
+
+    - story: step 1.7.2
+      steps:
+        - intent: step1_7_2
+        - action: utter_step1_7_2
+
+    - story: step 1.7.3
+      steps:
+        - intent: step1_7_3
+        - action: utter_step1_7_3
+
+    - story: step 1.7.4
+      steps:
+        - intent: step1_7_4
+        - action: utter_step1_7_4
+
+    - story: step 1.7.5
+      steps:
+        - intent: step1_7_5
+        - action: utter_step1_7_5
+
+  step_one_section8:
+    - story: step 1.8.1
+      steps:
+        - intent: step1_8_1
+        - action: utter_step1_8_1
+
+    - story: step 1.8.2
+      steps:
+        - intent: step1_8_2
+        - action: utter_step1_8_2
+
+    - story: step 1.8.3
+      steps:
+        - intent: step1_8_3
+        - action: utter_step1_8_3
+
+    - story: step 1.8.4
+      steps:
+        - intent: step1_8_4
+        - action: utter_step1_8_4
+
+    - story: step 1.8.5
+      steps:
+        - intent: step1_8_5
+        - action: utter_step1_8_5
+
+  step_one_section9:
+    - story: step 1.9.1
+      steps:
+        - intent: step1_9_1
+        - action: utter_step1_9_1
+
+    - story: step 1.9.2
+      steps:
+        - intent: step1_9_2
+        - action: utter_step1_9_2
+
+    - story: step 1.9.3
+      steps:
+        - intent: step1_9_3
+        - action: utter_step1_9_3
+
+    - story: step 1.9.4
+      steps:
+        - intent: step1_9_4
+        - action: utter_step1_9_4
+
+    - story: step 1.9.5
+      steps:
+        - intent: step1_9_5
+        - action: utter_step1_9_5
+
+  step_one_section10:
+    - story: step 1.10.1
+      steps:
+        - intent: step1_10_1
+        - action: utter_step1_10_1
+
+    - story: step 1.10.2
+      steps:
+        - intent: step1_10_2
+        - action: utter_step1_10_2
+
+    - story: step 1.10.3
+      steps:
+        - intent: step1_10_3
+        - action: utter_step1_10_3
+
+    - story: step 1.10.4
+      steps:
+        - intent: step1_10_4
+        - action: utter_step1_10_4
+
+    - story: step 1.10.5
+      steps:
+        - intent: step1_10_5
+        - action: utter_step1_10_5
+
+  step_one_section11:
+    - story: step 1.11.1
+      steps:
+        - intent: step1_11_1
+        - action: utter_step1_11_1
+
+    - story: step 1.11.2
+      steps:
+        - intent: step1_11_2
+        - action: utter_step1_11_2
+
+    - story: step 1.11.3
+      steps:
+        - intent: step1_11_3
+        - action: utter_step1_11_3
+
+    - story: step 1.11.4
+      steps:
+        - intent: step1_11_4
+        - action: utter_step1_11_4
+
+    - story: step 1.11.5
+      steps:
+        - intent: step1_11_5
+        - action: utter_step1_11_5
+
+  step_one_section12:
+    - story: step 1.12.1
+      steps:
+        - intent: step1_12_1
+        - action: utter_step1_12_1
+
+    - story: step 1.12.2
+      steps:
+        - intent: step1_12_2
+        - action: utter_step1_12_2
+
+    - story: step 1.12.3
+      steps:
+        - intent: step1_12_3
+        - action: utter_step1_12_3
+
+    - story: step 1.12.4
+      steps:
+        - intent: step1_12_4
+        - action: utter_step1_12_4
+
+    - story: step 1.12.5
+      steps:
+        - intent: step1_12_5
+        - action: utter_step1_12_5
+
+step two:
+
+  step_two_enter:
+    - story: step two #Enters step 2
+      steps:
+        - intent: step_two
+        - action: utter_step2
+
+  step_two_sections:    
+    - story: step 2.2
+      steps:
+        - intent: step2_2
+        - action: utter_step2_2
+
+    - story: step 2.3
+      steps:
+        - intent: step2_3
+        - action: utter_step2_3
+
+    - story: step 2.4
+      steps:
+        - intent: step2_4
+        - action: utter_step2_4
+
+    - story: step 2.5
+      steps:
+        - intent: step2_5
+        - action: utter_step2_5
+
+    - story: step 2.6
+      steps:
+        - intent: step2_6
+        - action: utter_step2_6
+
+    - story: step 2.7
+      steps:
+        - intent: step2_7
+        - action: utter_step2_7
+
+    - story: step 2.2.1
+      steps:
+        - intent: step2_2_1
+        - action: utter_step2_2_1
+
+    - story: step 2.2.2
+      steps:
+        - intent: step2_2_2
+        - action: utter_step2_2_2
+
+    - story: step 2.2.3
+      steps: 
+        - intent: step2_2_3
+        - action: utter_step2_2_3
+
+    - story: step 2.2.4
+      steps:
+        - intent: step2_2_4
+        - action: utter_step2_2_4
+
+    - story: step 2.2.5
+      steps:
+        - intent: step2_2_5
+        - action: utter_step2_2_5
+
+    - story: step 2.2.6
+      steps:
+        - intent: step2_2_6
+        - action: utter_step2_2_6
+
+  step_two_section2:
+    - story: step 2.2.1
+      steps:
+        - intent: step2_2_1
+        - action: utter_step2_2_1
+
+    - story: step 2.2.2
+      steps:
+        - intent: step2_2_2
+        - action: utter_step2_2_2
+
+    - story: step 2.2.3
+      steps:
+        - intent: step2_2_3
+        - action: utter_step2_2_3
+
+    - story: step 2.2.4
+      steps:
+        - intent: step2_2_4
+        - action: utter_step2_2_4
+
+    - story: step 2.2.5
+      steps:
+        - intent: step2_2_5
+        - action: utter_step2_2_5
+
+  step_two_section3:
+    - story: step 2.3.1
+      steps:
+        - intent: step2_3_1
+        - action: utter_step2_3_1
+
+    - story: step 2.3.2
+      steps:
+        - intent: step2_3_2
+        - action: utter_step2_3_2
+
+    - story: step 2.3.3
+      steps:
+        - intent: step2_3_3
+        - action: utter_step2_3_3
+
+    - story: step 2.3.4
+      steps:
+        - intent: step2_3_4
+        - action: utter_step2_3_4
+
+    - story: step 2.3.5
+      steps:
+        - intent: step2_3_5
+        - action: utter_step2_3_5
+
+  step_two_section4:
+    - story: step 2.4.1
+      steps:
+        - intent: step 2_4_1
+        - action: utter_step 2_4_1
+
+    - story: step 2.4.2
+      steps:
+        - intent: step 2_4_2
+        - action: utter_step 2_4_2
+
+    - story: step 2.4.3
+      steps:
+        - intent: step 2_4_3
+        - action: utter_step 2_4_3
+
+    - story: step 2.4.4
+      steps:
+        - intent: step 2_4_4
+        - action: utter_step 2_4_4
+
+    - story: step 2.4.5
+      steps:
+        - intent: step 2_4_5
+        - action: utter_step 2_4_5
+
+  step_two_section5:
+    - story: step 2.5.1
+      steps:
+        - intent: step 2_5_1
+        - action: utter_step 2_5_1
+
+    - story: step 2.5.2
+      steps:
+        - intent: step 2_5_2
+        - action: utter_step 2_5_2
+
+    - story: step 2.5.3
+      steps:
+        - intent: step 2_5_3
+        - action: utter_step 2_5_3
+
+    - story: step 2.5.4
+      steps:
+        - intent: step 2_5_4
+        - action: utter_step 2_5_4
+
+    - story: step 2.5.5
+      steps:
+        - intent: step 2_5_5
+        - action: utter_step 2_5_5
+
+  step_two_section6:
+    - story: step 2.6.1
+      steps:
+        - intent: step2_6_1
+        - action: utter_step2_6_1
+
+    - story: step 2.6.2
+      steps:
+        - intent: step2_6_2
+        - action: utter_step2_6_2
+
+    - story: step 2.6.3
+      steps:
+        - intent: step2_6_3
+        - action: utter_step2_6_3
+
+    - story: step 2.6.4
+      steps:
+        - intent: step2_6_4
+        - action: utter_step2_6_4
+
+    - story: step 2.6.5
+      steps:
+        - intent: step2_6_5
+        - action: utter_step2_6_5
+
+  step_two_section7:
+    - story: step 2.7.1
+      steps:
+        - intent: step2_7_1
+        - action: utter_step2_7_1
+
+    - story: step 2.7.2
+      steps:
+        - intent: step2_7_2
+        - action: utter_step2_7_2
+
+    - story: step 2.7.3
+      steps:
+        - intent: step2_7_3
+        - action: utter_step2_7_3
+
+    - story: step 2.7.4
+      steps:
+        - intent: step2_7_4
+        - action: utter_step2_7_4
+
+    - story: step 2.7.5
+      steps:
+        - intent: step2_7_5
+        - action: utter_step2_7_5
+
+StepThree:
+  - story: step three 
+    steps:
+      - intent: step_three
+      - action: utter_step3
+  - story: step 3.2
+    steps:
+      - intent: step3_2
+      - action: utter_step3_2
+
+  - story: step 3.3
+    steps:
+      - intent: step3_3
+      - action: utter_step3_3
+
+  - story: step 3.4
+    steps:
+      - intent: step3_4
+      - action: utter_step3_4
+
+  - story: step 3.5
+    steps:
+      - intent: step3_5
+      - action: utter_step3_5
+
+  - story: step 3.6
+    steps:
+      - intent: step3_6
+      - action: utter_step3_6
+
+  - story: step 3.7
+    steps:
+      - intent: step3_7
+      - action: utter_step3_7
+
+      ######
+
+  - story: step 3.2.1
+    steps:
+      - intent: step3_2_1
+      - action: utter_step3_2_1
+
+  - story: step 3.2.2
+    steps:
+      - intent: step3_2_2
+      - action: utter_step3_2_2
+
+  - story: step 3.2.3
+    steps:
+      - intent: step3_2_3
+      - action: utter_step3_2_3
+
+  - story: step 3.2.4
+    steps:
+      - intent: step3_2_4
+      - action: utter_step3_2_4
+
+  - story: step 3.2.5
+    steps:
+      - intent: step3_2_5
+      - action: utter_step3_2_5
+
+  - story: step 3.3.1
+    steps:
+      - intent: step3_3_1
+      - action: utter_step3_3_1
+
+  - story: step 3.3.2
+    steps:
+      - intent: step3_3_2
+      - action: utter_step3_3_2
+
+  - story: step 3.3.3
+    steps:
+      - intent: step3_3_3
+      - action: utter_step3_3_3
+
+  - story: step 3.3.4
+    steps:
+      - intent: step3_3_4
+      - action: utter_step3_3_4
+
+  - story: step 3.3.5
+    steps:
+      - intent: step3_3_5
+      - action: utter_step3_3_5
+
+  - story: step 3.4.1
+    steps:
+      - intent: step3_4_1
+      - action: utter_step3_4_1
+
+  - story: step 3.4.2
+    steps:
+      - intent: step3_4_2
+      - action: utter_step3_4_2
+
+  - story: step 3.4.3
+    steps:
+      - intent: step3_4_3
+      - action: utter_step3_4_3
+
+  - story: step 3.4.4
+    steps:
+      - intent: step3_4_4
+      - action: utter_step3_4_4
+
+  - story: step 3.4.5
+    steps:
+      - intent: step3_4_5
+      - action: utter_step3_4_5
+
+  - story: step 3.5.1
+    steps:
+      - intent: step3_5_1
+      - action: utter_step3_5_1
+
+  - story: step 3.5.2
+    steps:
+      - intent: step3_5_2
+      - action: utter_step3_5_2
+
+  - story: step 3.5.3
+    steps:
+      - intent: step3_5_3
+      - action: utter_step3_5_3
+
+  - story: step 3.5.4
+    steps:
+      - intent: step3_5_4
+      - action: utter_step3_5_4
+
+  - story: step 3.5.5
+    steps:
+      - intent: step3_5_5
+      - action: utter_step3_5_5
+
+  - story: step 3.6.1
+    steps:
+      - intent: step3_6_1
+      - action: utter_step3_6_1
+
+  - story: step 3.6.2
+    steps:
+      - intent: step3_6_2
+      - action: utter_step3_6_2
+
+  - story: step 3.6.3
+    steps:
+      - intent: step3_6_3
+      - action: utter_step3_6_3
+
+  - story: step 3.6.4
+    steps:
+      - intent: step3_6_4
+      - action: utter_step3_6_4
+
+  - story: step 3.6.5
+    steps:
+      - intent: step3_6_5
+      - action: utter_step3_6_5
+
+  - story: step 3.7.1
+    steps:
+      - intent: step3_7_1
+      - action: utter_step3_7_1
+
+  - story: step 3.7.2
+    steps:
+      - intent: step3_7_2
+      - action: utter_step3_7_2
+
+  - story: step 3.7.3
+    steps:
+      - intent: step3_7_3
+      - action: utter_step3_7_3
+
+  - story: step 3.7.4
+    steps:
+      - intent: step3_7_4
+      - action: utter_step3_7_4
+
+  - story: step 3.7.5
+    steps:
+      - intent: step3_7_5
+      - action: utter_step3_7_5
+
+StepFour:
+  - story: step 4.2
+    steps:
+      - intent: step4_2
+      - action: utter_step4_2
+
+  - story: step 4.3
+    steps:
+      - intent: step4_3
+      - action: utter_step4_3
+
+  - story: step 4.4
+    steps:
+      - intent: step4_4
+      - action: utter_step4_4
+
+  - story: step 4.5
+    steps:
+      - intent: step4_5
+      - action: utter_step4_5
+
+  - story: step 4.6
+    steps:
+      - intent: step4_6
+      - action: utter_step4_6
+
+  - story: step 4.8
+    steps:
+      - intent: step4_8
+      - action: utter_step4_8
+      
+  - story: step four 
+    steps:
+      - intent: step_four
+      - action: utter_step4
+
+  - story: step 4.2.1
+    steps:
+      - intent: step4_2_1
+      - action: utter_step4_2_1
+
+  - story: step 4.2.2
+    steps:
+      - intent: step4_2_2
+      - action: utter_step4_2_2
+
+  - story: step 4.2.3
+    steps:
+      - intent: step4_2_3
+      - action: utter_step4_2_3
+
+  - story: step 4.2.4
+    steps:
+      - intent: step4_2_4
+      - action: utter_step4_2_4
+
+  - story: step 4.2.5
+    steps:
+      - intent: step4_2_5
+      - action: utter_step4_2_5
+
+  - story: step 4.3.1
+    steps:
+      - intent: step4_3_1
+      - action: utter_step4_3_1
+
+  - story: step 4.3.2
+    steps:
+      - intent: step4_3_2
+      - action: utter_step4_3_2
+
+  - story: step 4.3.3
+    steps:
+      - intent: step4_3_3
+      - action: utter_step4_3_3
+
+  - story: step 4.3.4
+    steps:
+      - intent: step4_3_4
+      - action: utter_step4_3_4
+    
+  - story: step 4.3.5
+    steps:
+      - intent: step4_3_5
+      - action: utter_step4_3_5
+
+  - story: step 4.4.1
+    steps:
+      - intent: step4_4_1
+      - action: utter_step4_4_1
+
+  - story: step 4.4.2
+    steps:
+      - intent: step4_4_2
+      - action: utter_step4_4_2
+
+  - story: step 4.4.3
+    steps:
+      - intent: step4_4_3
+      - action: utter_step4_4_3
+
+  - story: step 4.4.4
+    steps:
+      - intent: step4_4_4
+      - action: utter_step4_4_4
+
+  - story: step 4.4.5
+    steps:
+      - intent: step4_4_5
+      - action: utter_step4_4_5
+
+  - story: step 4.5.1
+    steps:
+      - intent: step4_5_1
+      - action: utter_step4_5_1
+
+  - story: step 4.5.2
+    steps:
+      - intent: step4_5_2
+      - action: utter_step4_5_2
+
+  - story: step 4.5.3
+    steps:
+      - intent: step4_5_3
+      - action: utter_step4_5_3
+
+  - story: step 4.5.4
+    steps:
+      - intent: step4_5_4
+      - action: utter_step4_5_4
+
+  - story: step 4.5.5
+    steps:
+      - intent: step4_5_5
+      - action: utter_step4_5_5
+
+  - story: step 4.6.1
+    steps:
+      - intent: step4_6_1
+      - action: utter_step4_6_1
+
+  - story: step 4.6.2
+    steps:
+      - intent: step4_6_2
+      - action: utter_step4_6_2
+
+  - story: step 4.6.3
+    steps:
+      - intent: step4_6_3
+      - action: utter_step4_6_3
+
+  - story: step 4.6.4
+    steps:
+      - intent: step4_6_4
+      - action: utter_step4_6_4
+
+  - story: step 4.6.5
+    steps:
+      - intent: step4_6_5
+      - action: utter_step4_6_5
+
+  - story: step 4.8.1
+    steps:
+      - intent: step4_8_1
+      - action: utter_step4_8_1
+
+  - story: step 4.8.2
+    steps:
+      - intent: step4_8_2
+      - action: utter_step4_8_2
+
+  - story: step 4.8.3
+    steps:
+      - intent: step4_8_3
+      - action: utter_step4_8_3
+
+  - story: step 4.8.4
+    steps:
+      - intent: step4_8_4
+      - action: utter_step4_8_4
+
+  - story: step 4.8.5
+    steps:
+      - intent: step4_8_5
+      - action: utter_step4_8_5
+
+other:
+  - story: create account
+    steps: 
+      - intent: create_acc
+      - action: utter_create_acc
+      - action: utter_ask_name
+      - intent: give_name
+      - action: utter_email
+      - intent: email
+      - action: utter_login_success
+
+  - story: login
+    steps:
+      - intent: login
+      - action: utter_login
+      - intent: email
+      - action: utter_login_success
+
+  - story: quiz score
+    steps:
+      - intent: quiz_score
+      - action: utter_quiz_retrieval
+      - intent: quiz_topic
+      - action: utter_results
+
+  - story: buy a drone
+    steps: 
+      - intent: buy_drone
+      - action: utter_buy
+
+  - story: name path
+    steps:
+    - intent: tell_name
+    - action: utter_ask_name
+    - intent: give_name
+    - action: action_receive_name
+    - intent: repeat_name
+    - action: action_say_name
+
+  - story: home 
+    steps:
+    - intent: greet
+    - action: utter_greet
+    - action: utter_welcome_buttons
+
+  - story: happy path
+    steps:
+    - intent: mood_great
+    - action: utter_happy
+
+  - story: thank
+    steps:
+    - intent: thank
+    - action: utter_welcome
+    
+  - story: intro home
+    steps:
+    - intent: about
+    - action: utter_home
+
+  - story: aquiline drones
+    steps:
+      - intent: aboutad
+      - action: utter_aboutad
+      - intent: tell_more
+      - action: utter_moread
+
+  - story: ask_services
+    steps: 
+      - intent: services
+      - action: utter_services
+
+  - story: sad path 1
+    steps:
+    - intent: mood_unhappy
+    - action: utter_sorry
+    - action: utter_help
+    - intent: affirm
+    - action: utter_okay
+
+  - story: sad path 2
+    steps:
+    - intent: mood_unhappy
+    - action: utter_sorry
+    - action: utter_help
+    - intent: deny
+    - action: utter_goodbye
+
+  - story: courses
+    steps:
+      - intent: list_courses
+      - action: utter_courses
+
+  - story: what is fftf
+    steps:
+      - intent: fttf_intro
+      - action: utter_fttf_intro
+
+  - story: fttf benefits
+    steps:
+      - intent: fttf_benefits
+      - action: utter_fttf_benefits
+
+  - story: fttf complete
+    steps:
+      - intent: fttf_complete
+      - action: utter_fttf_complete
+
+  - story: fttf kit
+    steps:
+      - intent: fttf_kit
+      - action: utter_fttf_kit
+
+  - story: lesson one
+    steps:
+      - intent: lesson_one
+      - action: utter_lesson_one
+
+  - story: show modules
+    steps:
+      - intent: show_modules
+      - action: utter_modules
+
+  - story: weather
+    steps:
+      - intent: weather_effect
+      - action: utter_weather_effect
+
+  - story: cost
+    steps:
+      - intent: cost
+      - action: utter_cost
+
+  - story: personality
+    steps:
+      - intent: personality
+      - action: utter_personality
+      - intent: mood_great
+      - action: utter_happy
+
+  - story: jokes
+    steps:
+      - intent: jokes
+      - action: utter_jokes
+
+  - story: tell weather
+    steps:
+      - intent: ask_weather
+      - action: action_ask_weather
+
+  - story: tell time
+    steps:
+      - intent: time
+      - action: utter_time
+
+  - story: bombing
+    steps:
+      - intent: aerial_bombing
+      - action: utter_bombing
+
+  - story: FAA
+    steps:
+      - intent: FAA
+      - action: utter_
+  - story: aerodynamics
+    steps:
+      - intent: aerodynamics
+      - action: utter_aerodynamics  
+
+  - story: airports
+    steps:
+      - intent: airports
+      - action: utter_airports
+
+  - story: can anyone fly
+    steps:
+      - intent: can_fly
+      - action: utter_can_fly
+
+  - story: commercial use
+    steps:
+      - intent: commercial_use
+      - action: utter_commercial_use
+
+  - story: show steps
+    steps:
+      - intent: steps
+      - action: utter_steps
+
+  - story: inform that anyone can fly
+    steps:
+      - intent: can_fly
+      - action: utter_can_fly
+
+  - story: how much can i make
+    steps:
+      - intent: how_much
+      - action: utter_how_much
+
+  - story: performance
+    steps:
+      - intent: performance
+      - action: utter_performance
+
+  - story: lesson one readings
+    steps:
+      - intent: lesson_one_readings
+      - action: utter_lesson_one_readings
+
+  - story: where to find jobs
+    steps:
+      - intent: find_jobs
+      - action: utter_find_jobs
+
+  - story: speak to a person
+    steps:
+      - intent: real_person
+      - action: utter_real_person
+
+
+# - story: quiz feedback
+#   steps:
+#     - intent: take_quiz
+#     - action: utter_quiz_start
+#     - action: utter_quiz_correct
+#     - action: utter_quiz_wrong
+#     - action: utter_quiz_correct
+#     - action: utter_quiz_wrong
+#     - action: utter_quiz_wrong
+#     - action: utter_quiz_final_correct
+#     - action: utter_results
+
+# - story: request user info
+#   steps:
+#     - utter_first_name
+#     - slot{"firstN": "Mosby"}
+#     - action_last_name
+#     - slot{"lirstN": "Mister"}
